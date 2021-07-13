@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">LoginPage</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="we_will_send_you_otp_on_the_given_mobile_number">We will send you OTP on the given mobile number</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="_91">+91</string>
+    <string name="enter_the_otp">Enter the OTP</string>
+    <string name="please_enter_the_otp_sent_to_you">Please enter the OTP sent to you</string>
+<!--    <string name="xxxxxxxxxx">XXXXXXXXXX</string>-->
+    <string name="didn_t_recieve_otp">Didn\'t receive OTP</string>
+    <string name="didn_t_receive_otp1">Didn\'t receive OTP</string>
+    <string name="resend_otp">RESEND OTP</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="background">background</string>
+    <string name="go_to_facebook">Go to Facebook</string>
+    <string name="go_to_instagram">Go to Instagram</string>
+    <string name="go_to_linkedin">Go to Linkedin</string>
+    <string name="go_to_twitter">Go to Twitter</string>
+    <string name="back">back</string>
+    <string name="welcome_to_my_app">WELCOME TO MY APP!</string>
+    <string name="sign_in_with_phone_number">Sign in with phone number</string>
+    <string name="submit">Submit</string>
+    <string name="xxxxxxxxxx">XXXXXXXXXX</string>
+    <string name="signout">SignOut</string>
+    <string name="welcome_to_my_app_that_redirects_you_to_other_apps">Welcome To My App that Redirects You to Other Apps:)</string>
+
+
+</resources>
